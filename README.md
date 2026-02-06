@@ -96,4 +96,6 @@ Add JavaScript interactions
  Conclusion
 This project helped me understand real-world frontend layouts and boosted my confidence in HTML & CSS.
 
+OUTPUT
+(assets/images/preview.png)
 
